@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Jack Sparrow",
+      "email": "JackSparrow@gmail.com",
+      "telefone": 51999998502,
+      "nascimento": "09/07/1963",
+      "cidade": "Owensboro"
+    },
+    {
+      "id": 2,
+      "nome": "Indiana Jones",
+      "email": "indianaJones@outlook.com",
+      "telefone": 51784526630,
+      "nascimento": "01/07/1899",
+      "cidade": "Princeton"
+    },
+    {
+      "id": 3,
+      "nome": "Relâmpago McQueen",
+      "email": "relampagoCatiau@gmail.com",
+      "telefone": 51999998502,
+      "nascimento": "18/11/1977",
+      "cidade": "Radiator Springs"
+    },
+    {
+      "id": 4,
+      "nome": "Novo teste",
+      "email": "teste@teste.com.br",
+      "telefone": "84848484848",
+      "nascimento": "22/09/2023",
+      "cidade": "Lá onde judas perdeu as botas"
+    }
+  ]
+}
